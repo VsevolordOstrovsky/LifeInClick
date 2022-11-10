@@ -1,5 +1,5 @@
 package com.example.asdfgh;
-
+//hey, who are you?
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             count++;
             tv.setText(Integer.toString(count));
         });
-//ewfwef
+
     }
 
     @Override
