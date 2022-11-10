@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tv;
     private Button btn;
     int count;
+    double seeeee;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
